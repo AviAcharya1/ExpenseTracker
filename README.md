@@ -2,6 +2,10 @@
 
 A simple, yet fully functional expense tracker application built with HTML, CSS, and JavaScript. The application allows users to track their income and expenses, providing a clear overview of their financial status.
 
+## Project is live at: 
+
+- https://aviacharya1.github.io/ExpenseTracker/
+
 ## Table of Contents
 
 - [Features](#features)
@@ -38,7 +42,7 @@ To run this project locally, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd expense-tracker
+    cd ExpenseTracker
     ```
 
 3. **Open `index.html` in your web browser:**
